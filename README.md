@@ -6,6 +6,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -16,7 +17,13 @@ Contains topicwise list of solved problems.
 | [most-frequent-character](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/most-frequent-character/) | Easy |
 | [search-a-character-in-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/search-a-character-in-a-string/) | Easy |
 
+## GeeksForGeeks
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [unknown-problem](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/unknown-problem/) | Medium |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
