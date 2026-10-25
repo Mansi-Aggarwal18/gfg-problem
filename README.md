@@ -7,6 +7,7 @@ Contains topicwise list of solved problems.
 
 
 
+
 <!---GeeksForGeeks Tags Start-->
 # GeeksForGeeks Tags
 
@@ -15,6 +16,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0sum-numbers-in-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/0sum-numbers-in-a-string/) | Easy |
 | [most-frequent-character](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/most-frequent-character/) | Easy |
+| [reverse-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/reverse-a-string/) | Basic |
 | [search-a-character-in-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/search-a-character-in-a-string/) | Easy |
 
 ## GeeksForGeeks
@@ -22,7 +24,18 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [unknown-problem](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/unknown-problem/) | Medium |
 
+## Reverse A String In Java
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/reverse-a-string/) | Basic |
+
+## String Reverse
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [reverse-a-string](https://github.com/Mansi-Aggarwal18/gfg-problem/tree/main/reverse-a-string/) | Basic |
+
 <!---GeeksForGeeks Tags End-->
+
 
 
 
